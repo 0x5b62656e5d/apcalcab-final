@@ -24,6 +24,9 @@ Source: [https://apcentral.collegeboard.org/courses/ap-calculus-ab/exam/past-exa
 ## Animations
 
 Animations were created using the Manim Community Edition
+
 © 2025 Manim Community Developers
+
 Licensed under the MIT License
+
 [https://www.manim.community/](https://www.manim.community/)
